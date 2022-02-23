@@ -1,0 +1,48 @@
+.nav--background{
+	background-color: lightsteelblue;
+}
+
+.nav__item{
+	display: inline; /* pasaje de elemento en bloque a un elemento en linea */
+}
+
+.nav__item-background{
+	background-color: lavender;
+
+}
+
+.nav__item--color{
+		color: white;
+	font-size: 30px;
+}
+
+.card--background{
+	background-color: lavender;
+}
+
+.card{
+	margin: 50px;
+	padding: 70px;
+	border: 5px solid black;
+}
+
+/* ejemplo de overflow */
+.noticia{
+	border: 4px solid black;
+	background-color: paleturquoise;
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	margin-bottom: 20px;	
+}
+/* imagen flotante */
+.fixed_ _img{
+	position: fixed;
+	top: 50px;
+}
+/* cuadrados */
+.cuadrado{
+	background-color: mediumaquamarine;
+	border: 3px solid black;
+	margin: 0px 10px;
+}
